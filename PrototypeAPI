@@ -43,9 +43,9 @@
   "collection": {
     "@context": "https://schema.org/",
     "@type": "OfficeItems",
-    "name": "annaberger's API",
-    "creator": "annaberger",
+    "name": "jason clark's API",
+    "creator": "jasonclark",
     "about": "A collection of items for a home office",
-    "url": "https://www.annaberger.info"
+    "url": "https://www.jasonclark.info"
   }
 }
