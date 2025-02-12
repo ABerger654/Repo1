@@ -1,0 +1,51 @@
+{
+  "items": [
+    {
+      "@context": "https://schema.org",
+      "@type": "CreativeWork",
+      "id": "1",
+      "name": "Pencil",
+      "description": "Item for writing on paper"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "CreativeWork",
+      "id": "2",
+      "name": "Lava Lamp",
+      "description": "Item for light and decor"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "CreativeWork",
+      "id": "3",
+      "name": "Picture Frame",
+      "description": "Item for displaying photos"
+    }
+  ],
+  "users": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "id": "1",
+      "name": "Bob Barrow",
+      "description": "Writes smooth and does not break.",
+      "itemId": "1"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "id": "2",
+      "name": "John Emperor",
+      "description": "Nice quality frame, my photo looks great in it.",
+      "itemId": "3"
+    }
+  ],
+  "collection": {
+    "@context": "https://schema.org/",
+    "@type": "OfficeItems",
+    "name": "annaberger's API",
+    "creator": "annaberger",
+    "about": "A collection of items for a home office",
+    "url": "https://www.annaberger.info"
+  }
+}
